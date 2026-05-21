@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+streamlit
+plotly
+langchain-google-genai
+tradingview-screener
